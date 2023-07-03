@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 107: expected ':' not found.
+    label scene2
+                ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Fri Jan  6 00:22:00 2023
